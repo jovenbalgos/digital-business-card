@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https//jovenbalgos.github.io/digital-business-card/static/css/main.831e61f7.css",
+    "main.js": "/https//jovenbalgos.github.io/digital-business-card/static/js/main.c2080d19.js",
+    "static/media/me.png": "/https//jovenbalgos.github.io/digital-business-card/static/media/me.b55f49ada6384cab2abb.png",
+    "index.html": "/https//jovenbalgos.github.io/digital-business-card/index.html",
+    "main.831e61f7.css.map": "/https//jovenbalgos.github.io/digital-business-card/static/css/main.831e61f7.css.map",
+    "main.c2080d19.js.map": "/https//jovenbalgos.github.io/digital-business-card/static/js/main.c2080d19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.831e61f7.css",
+    "static/js/main.c2080d19.js"
+  ]
+}
